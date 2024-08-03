@@ -1,6 +1,5 @@
-# E-commerce-Shipping-Prediction-using-Machine-Learning
 <div align="center">
-  <h1>E-Commerce Shipping Prediction</h1>
+  <h1>E-Commerce Shipping Prediction using Machine Learning</h1>
 </div>
 
 ## Project Overview
